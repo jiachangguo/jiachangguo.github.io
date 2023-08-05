@@ -15,10 +15,10 @@ main:
   # - title: "Blog Posts"
   #   url: https://jiachangguo.github.io/
     
-  -  title: "CV"
+   - title: "CV"
      url: /cv/
   
-  -  title: "Friends"
+   - title: "Friends"
      url: /friends/
 
   # - title: "Guide"
