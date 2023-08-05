@@ -12,12 +12,10 @@ I'm an undergraduate student in Top class of [Computer Science and Technology](h
 
 My main research interests are Software Engineering and Data Mining (such as mining software repository, analyze large complex software systems and so on).
 
-Education
-======
+## Education
 * B.S. in Computer Science and Technology, Beijing Institute of Technology, 2024 (expected)
 
-Awards and Honors
-======
+## Awards and Honors
 * Huawei Smart Base Scholarship, Beijing Institute of Technology (2023)
 * Dwin Scholarship, Beijing Institute of Technology (2022)
 * Outstanding Student, Beijing Institute of Technology (2022)
@@ -26,7 +24,6 @@ Awards and Honors
 * First Prize for outstanding student scholarship, Beijing Institute of Technology (2021)
 * National Scholarship, Beijing Institute of Technology (2021)
 
-Hobbies
-======
+## Hobbies
 * Singing, Playing the piano, Watching movies...
   
