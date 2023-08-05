@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-   - title: "Blog Posts"
-     url: https://jiachangguo.github.io/
+  # - title: "Blog Posts"
+  #   url: https://jiachangguo.github.io/
     
   -  title: "CV"
      url: /cv/
