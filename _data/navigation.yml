@@ -18,8 +18,8 @@ main:
    - title: "CV"
      url: /cv/
   
-   - title: "Friends"
-     url: /friends/
+  # - title: "Friends"
+  #   url: /friends/
 
   # - title: "Guide"
   #   url: /markdown/
