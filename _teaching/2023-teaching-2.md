@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Engineering"
 collection: Teaching Assistant
-type: "Undergraduate course"
+type: "Teaching Assistant, Undergraduate Course"
 permalink: "/teaching/2023-teaching-2"
 venue: "Beijing Institute of Technology"
 date: 2023-03-01
