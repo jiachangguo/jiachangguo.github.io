@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student in Top class of [Computer Science and Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/). In the next year, I will be a PhD candidate in Computer Software and Theory at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.org/), [Software Engineering Institute](http://www.sei.pku.edu.cn/).
+I'm a Ph.D. candidate in Computer Science and Technology at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.org/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor’s Degree in Top class of [Computer Science and Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/).
 
-My main research interests are Software Engineering and Data Mining (such as mining software repository, analyze large complex software systems and so on).
+My main research interests mainly focus on software supply chain security, especially on the application and future development of SBOM (Software Bill of Materials). I'm committed to exploring how to improve the transparency and traceability of the supply chain through automation technology. If you are interested in any of the research topics, feel free to contact me (jiachangguo@stu.pku.edu.cn)!
 
 ## Education
-* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2024 (expected)
+* B.S. in Computer Science and Technology, Beijing Institute of Technology, 2020-2024
+* Ph.D. Candidate in Computer Science and Technology, Peking University, 2024-2029 (expected)
 
 ## Awards and Honors
 * Huawei Smart Base Scholarship, Beijing Institute of Technology (2023)
