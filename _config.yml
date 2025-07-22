@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Changguo Jia (贾昌国)"
+title                    : "Changguo Jia"
 description              : ""
 repository               : "jiachangguo/jiachangguo.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changguo Jia"
+  name             : "Changguo Jia (贾昌国)"
   avatar           : "images/profile.jpg"
   bio              : "PhD student in Computer Science and Technology at School of Computer Science, Peking University"
   location         : "Beijing, China"
