@@ -24,15 +24,18 @@ My main research interests mainly focus on software supply chain security and la
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Our paper "SIT: An Accurate, Compliant SBOM Generator with Incremental Construction" is accepted by ICSE 2025. 
 
-# 📝 Publications 
-
+# 📝 Publications
 - [Code Clone Detection via an AlphaFold-Inspired Framework](https://arxiv.org/pdf/2507.15226)  
-  &nbsp;&nbsp;**Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou
-  &nbsp;&nbsp;**Preprint on Arxiv**
+  &nbsp;**Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou  
+  &nbsp;**Preprint on Arxiv**
 
-- [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](https://github.com)  
-  &nbsp;&nbsp;**Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou
-  &nbsp;&nbsp;**ICSE 2025**
+- [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](..files/ICSE25.pdf)  
+  &nbsp;**Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou  
+  &nbsp;**ICSE 2025**
+
+# 📖 Educations
+- *2024 - now* Ph.D. Student in Computer Science and Technology, Peking University
+- *2020 - 2024* B.S. in Computer Science and Technology, Beijing Institute of Technology
 
 # 🎖 Honors and Awards
 - *2023* Huawei Smart Base Scholarship, Beijing Institute of Technology
@@ -42,8 +45,3 @@ My main research interests mainly focus on software supply chain security and la
 - *2021* Outstanding Student Leader, Beijing Institute of Technology
 - *2021* First Prize for outstanding student scholarship, Beijing Institute of Technology
 - *2021* National Scholarship, Beijing Institute of Technology
-
-
-# 📖 Educations
-- *2024 - now* Ph.D. Student in Computer Science and Technology, Peking University
-- *2020 - 2024* B.S. in Computer Science and Technology, Beijing Institute of Technology
