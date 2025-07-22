@@ -29,7 +29,7 @@ My main research interests mainly focus on software supply chain and large langu
   &nbsp;**Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou  
   &nbsp;**Preprint on Arxiv**
 
-- [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](..files/ICSE25.pdf)  
+- [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](files/ICSE25.pdf)  
   &nbsp;**Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou  
   &nbsp;**ICSE 2025**
 
