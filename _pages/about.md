@@ -26,12 +26,12 @@ My main research interests mainly focus on software supply chain and large langu
 
 # 📝 Publications
 - [Code Clone Detection via an AlphaFold-Inspired Framework](https://arxiv.org/pdf/2507.15226)  
-  &nbsp;**Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou  
-  &nbsp;**Preprint on Arxiv**
+  **Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou  
+  _Preprint on Arxiv_
 
 - [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](files/ICSE25.pdf)  
-  &nbsp;**Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou  
-  &nbsp;**ICSE 2025**
+  **Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou  
+  _ICSE 2025_
 
 # 📖 Educations
 - *2024 - now* Ph.D. Student in Computer Science and Technology, Peking University
