@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Changguo Jia (贾昌国)"
+  name             : "Changguo Jia"
   avatar           : "images/profile.jpg"
   bio              : "PhD student in Computer Science and Technology at School of Computer Science, Peking University"
   location         : "Beijing, China"
