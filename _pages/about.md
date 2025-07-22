@@ -25,13 +25,13 @@ My main research interests mainly focus on software supply chain and large langu
 - *2024.12*: &nbsp;🎉🎉 Our paper "SIT: An Accurate, Compliant SBOM Generator with Incremental Construction" is accepted by ICSE 2025. 
 
 # 📝 Publications
-- [Code Clone Detection via an AlphaFold-Inspired Framework](https://arxiv.org/pdf/2507.15226)  
+- **[Code Clone Detection via an AlphaFold-Inspired Framework](https://arxiv.org/pdf/2507.15226)**  
   **Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou  
   _Preprint on Arxiv_
 
-- [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](files/ICSE25.pdf)  
+- **[SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](files/ICSE25.pdf)**  
   **Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou  
-  _ICSE 2025_
+  The 47th International Conference on Software Engineering (_ICSE 2025_)
 
 # 📖 Educations
 - *2024 - now* Ph.D. Student in Computer Science and Technology, Peking University
