@@ -26,14 +26,13 @@ My main research interests mainly focus on software supply chain security and la
 
 # 📝 Publications 
 
-- [Code Clone Detection via an AlphaFold-Inspired Framework
-](https://arxiv.org/pdf/2507.15226), 
+- [Code Clone Detection via an AlphaFold-Inspired Framework](https://arxiv.org/pdf/2507.15226)  
+  &nbsp;&nbsp;**Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou
+  &nbsp;&nbsp;**Preprint on Arxiv**
 
-&nbsp;**Changguo Jia**, Yi Zhan, Tianqi Zhao, Hengzhi Ye, Minghui Zhou, **Preprint on Arxiv**
-
-- [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](https://github.com), 
-
-&nbsp;**Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou, **ICSE 2025**
+- [SIT: An Accurate, Compliant SBOM Generator with Incremental Construction](https://github.com)  
+  &nbsp;&nbsp;**Changguo Jia**, Nianyu Li, Kai Yang, Minghui Zhou
+  &nbsp;&nbsp;**ICSE 2025**
 
 # 🎖 Honors and Awards
 - *2023* Huawei Smart Base Scholarship, Beijing Institute of Technology
