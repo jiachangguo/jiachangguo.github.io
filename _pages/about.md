@@ -19,7 +19,7 @@ redirect_from:
 
 I'm a Ph.D. candidate in Computer Science and Technology at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), supervised by Prof. [Minghui Zhou](https://minghuizhou.github.io/) at [Open Source Software Data Analytics Lab](https://osslab-pku.org/), [Software Engineering Institute](http://www.sei.pku.edu.cn/). Before that, I received my Bachelor’s Degree in Top class of [Computer Science and Technology](https://cs.bit.edu.cn/), [Beijing Institute of Technology](https://www.bit.edu.cn/).
 
-My main research interests mainly focus on software supply chain security and large language models. If you are interested in any of the related research topics, feel free to contact me (jiachangguo@stu.pku.edu.cn)!
+My main research interests mainly focus on software supply chain and large language model. If you are interested in any of the related research topics, feel free to contact me (jiachangguo@stu.pku.edu.cn)!
 
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 Our paper "SIT: An Accurate, Compliant SBOM Generator with Incremental Construction" is accepted by ICSE 2025. 
