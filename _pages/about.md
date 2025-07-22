@@ -22,7 +22,7 @@ I'm a Ph.D. candidate in Computer Science and Technology at [School of Computer 
 My main research interests mainly focus on software supply chain and large language model. If you are interested in any of the related research topics, feel free to contact me (jiachangguo@stu.pku.edu.cn)!
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Our paper "SIT: An Accurate, Compliant SBOM Generator with Incremental Construction" is accepted by ICSE 2025. 
+- *2024.12*: &nbsp;🎉🎉 Our paper "SIT: An Accurate, Compliant SBOM Generator with Incremental Construction" is accepted by ICSE 2025! 
 
 # 📝 Publications
 - **[Code Clone Detection via an AlphaFold-Inspired Framework](https://arxiv.org/pdf/2507.15226)**  
